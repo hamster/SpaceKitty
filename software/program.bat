@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Atmel\Studio\7.0\atbackend\atprogram.exe" -v -i updi -d attiny816 -t medbg program -c -f "SpaceKitty\SpaceKitty\Release\SpaceKitty.hex"
